@@ -11,7 +11,7 @@ If you are interested in my research or have any questions, also please feel fre
 - Personal Pages: [https://yupengsu.github.io](https://yupengsu.github.io) (updated recently🔥)
 - Linkedin: [https://www.linkedin.com/in/yupeng-su](https://www.linkedin.com/in/yupeng-su)
 - Google Scholar: [https://scholar.google.com/citations?user=4FA6C0AAAAAJ](https://scholar.google.com/citations?user=zZ8lS-UAAAAJ)
-- DBLP: [https://dblp.org/pid/75/6568-6.html](https://dblp.org/pid/224/1935.html)
+- DBLP: [https://dblp.org/pid/224/1935.html](https://dblp.org/pid/224/1935.html)
 
 ### 🔥 News
 
