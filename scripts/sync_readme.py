@@ -41,7 +41,8 @@ def render_pubs(pubs):
         title = f"[{p['title']}]({p['links']['paper']})"
         links = p.get("links", {})
         code = f" [[Code]]({links['code']})" if links.get("code") else ""
-        out.append(f"- `{p['venue']}` {star}{title}, {bold(p['authors'])}.{code}")
+        project = f" [[Project]]({links['project']})" if links.get("project") else ""
+        out.append(f"- `{p['venue']}` {star}{title}, {bold(p['authors'])}.{code}{project}")
     return "\n\n".join(out)
 
 

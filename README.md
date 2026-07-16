@@ -27,7 +27,7 @@ If you are interested in my research or have any questions, please feel free to 
 ### 📝 Publications
 
 <!-- PUBS:START -->
-- `CoLM 2026` ★ [MuonQ: Enhancing Low-Bit Muon Quantization via Directional Fidelity Optimization](https://arxiv.org/abs/2605.11396), **Yupeng Su**, Ruijie Zhang, Ziyue Liu, Yequan Zhao, Zheng Zhang. [[Code]](https://github.com/YupengSu/MuonQ)
+- `CoLM 2026` ★ [MuonQ: Enhancing Low-Bit Muon Quantization via Directional Fidelity Optimization](https://arxiv.org/abs/2605.11396), **Yupeng Su**, Ruijie Zhang, Ziyue Liu, Yequan Zhao, Zheng Zhang. [[Code]](https://github.com/YupengSu/MuonQ) [[Project]](https://yupengsu.github.io/MuonQ)
 
 - `CoLM 2026` [RankGuide: Tensor-Rank-Guided Routing and Steering for Efficient Reasoning](https://arxiv.org/abs/2604.16694), Jiayi Tian, **Yupeng Su**, Ryan Solgi, Souvik Kundu, Zheng Zhang.
 
