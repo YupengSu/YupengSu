@@ -37,6 +37,8 @@ If you are interested in my research or have any questions, please feel free to 
 
 - `arXiv 2026` [TEON: Tensorized Orthonormalization Beyond Layer-Wise Muon for Large Language Model Pre-Training](https://arxiv.org/abs/2601.23261), Ruijie Zhang, Yequan Zhao, Ziyue Liu, Zhengyang Wang, Dongyang Li, **Yupeng Su**, Sijia Liu, Zheng Zhang.
 
+- `TCAD 2026` [APTQ+: Attention-FFN-aware Post-Training Quantization for a Layer-wise LLM Accelerator on FPGA](https://doi.org/10.1109/TCAD.2026.3697679), Ziyi Guan, Zhengfei Chen, Dongkuan Wu, Ao Shen, Yifan Guo, **Yupeng Su**, Graziano Chesi, Mingqiang Huang, Ngai Wong, Hao Yu.
+
 - `ICCAD 2025` ★ [LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models](https://arxiv.org/abs/2408.10631), **Yupeng Su**, Ziyi Guan, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Zhengwu Chen, Graziano Chesi, Ngai Wong, Hao Yu. [[Code]](https://github.com/YupengSu/LLM-Barber)
 
 - `arXiv 2025` [PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](https://arxiv.org/abs/2509.16989), He Xiao, Runming Yang, Qingyao Yang, Wendong Xu, Zhen Li, **Yupeng Su**, Zhengwu Liu, Hongxia Yang, Ngai Wong. [[Code]](https://github.com/HeXiao-55/PTQTP)
