@@ -37,7 +37,7 @@ If you are interested in my research or have any questions, please feel free to 
 
 - `arXiv 2026` [TEON: Tensorized Orthonormalization Beyond Layer-Wise Muon for Large Language Model Pre-Training](https://arxiv.org/abs/2601.23261), Ruijie Zhang, Yequan Zhao, Ziyue Liu, Zhengyang Wang, Dongyang Li, **Yupeng Su**, Sijia Liu, Zheng Zhang.
 
-- `TCAD 2026` [APTQ+: Attention-FFN-aware Post-Training Quantization for a Layer-wise LLM Accelerator on FPGA](https://doi.org/10.1109/TCAD.2026.3697679), Ziyi Guan, Zhengfei Chen, Dongkuan Wu, Ao Shen, Yifan Guo, **Yupeng Su**, Graziano Chesi, Mingqiang Huang, Ngai Wong, Hao Yu.
+- `TCAD 2026` [APTQ+: Attention-FFN-aware Post-Training Quantization for a Layer-wise LLM Accelerator on FPGA](https://doi.org/10.1109/TCAD.2026.3697679), Ziyi Guan, Zhengfei Chen, Dongkuan Wu, Ao Shen, Yifan Guo, **Yupeng Su**, Graziano Chesi, Mingqiang Huang, Ngai Wong, Hao Yu. [[Code]](https://github.com/EasonGZY/AutoAPTQ)
 
 - `ICCAD 2025` ★ [LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models](https://arxiv.org/abs/2408.10631), **Yupeng Su**, Ziyi Guan, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Zhengwu Chen, Graziano Chesi, Ngai Wong, Hao Yu. [[Code]](https://github.com/YupengSu/LLM-Barber)
 
@@ -47,7 +47,7 @@ If you are interested in my research or have any questions, please feel free to 
 
 - `TCAS-I 2025` [EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models](https://doi.org/10.1109/TCSI.2025.3546256), Mingqiang Huang, Ao Shen, Kai Li, Haoxiang Peng, Boyu Li, **Yupeng Su**, Hao Yu.
 
-- `DAC 2024` [APTQ: Attention-Aware Post-Training Mixed-Precision Quantization for Large Language Models](https://doi.org/10.1145/3649329.3658498), Ziyi Guan, Hantao Huang, **Yupeng Su**, Hong Huang, Ngai Wong, Hao Yu.
+- `DAC 2024` [APTQ: Attention-Aware Post-Training Mixed-Precision Quantization for Large Language Models](https://doi.org/10.1145/3649329.3658498), Ziyi Guan, Hantao Huang, **Yupeng Su**, Hong Huang, Ngai Wong, Hao Yu. [[Code]](https://github.com/EasonGZY/AutoAPTQ)
 <!-- PUBS:END -->
 
 <sub>★ denotes first-author work. News & Publications are auto-synced from <a href="https://github.com/YupengSu/YupengSu.github.io"><code>_data/*.yml</code></a> in my homepage repo — edit content there.</sub>
