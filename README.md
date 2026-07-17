@@ -39,11 +39,11 @@ If you are interested in my research or have any questions, please feel free to 
 
 - `TCAD 2026` [APTQ+: Attention-FFN-aware Post-Training Quantization for a Layer-wise LLM Accelerator on FPGA](https://doi.org/10.1109/TCAD.2026.3697679), Ziyi Guan, Zhengfei Chen, Dongkuan Wu, Ao Shen, Yifan Guo, **Yupeng Su**, Graziano Chesi, Mingqiang Huang, Ngai Wong, Hao Yu. [[Code]](https://github.com/EasonGZY/AutoAPTQ)
 
-- `ICCAD 2025` ★ [LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models](https://arxiv.org/abs/2408.10631), **Yupeng Su**, Ziyi Guan, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Zhengwu Chen, Graziano Chesi, Ngai Wong, Hao Yu. [[Code]](https://github.com/YupengSu/LLM-Barber)
+- `ICCAD 2025` ★ [LLM-Barber: Block-Aware Rebuilder for Sparsity Mask in One-Shot for Large Language Models](https://arxiv.org/abs/2408.10631), **Yupeng Su**, Ziyi Guan, Xiaoqun Liu, Tianlai Jin, Dongkuan Wu, Zhengfei Chen, Graziano Chesi, Ngai Wong, Hao Yu. [[Code]](https://github.com/YupengSu/LLM-Barber)
 
 - `arXiv 2025` [PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](https://arxiv.org/abs/2509.16989), He Xiao, Runming Yang, Qingyao Yang, Wendong Xu, Zhen Li, **Yupeng Su**, Zhengwu Liu, Hongxia Yang, Ngai Wong. [[Code]](https://github.com/HeXiao-55/PTQTP)
 
-- `arXiv 2025` [Quantization Meets Reasoning: Exploring and Mitigating Degradation of Low-Bit LLMs in Mathematical Reasoning](https://arxiv.org/abs/2501.03035), Zhen Li, **Yupeng Su**, Shixuan Wang, Runming Yang, Congkai Xie, Anni Liu, Ming Li, Jiaqi Cao, Yi Xie, Ngai Wong, Hongxia Yang.
+- `arXiv 2025` [Quantization Meets Reasoning: Exploring and Mitigating Degradation of Low-Bit LLMs in Mathematical Reasoning](https://arxiv.org/abs/2501.03035), Zhen Li, **Yupeng Su**, Songmiao Wang, Runming Yang, Congkai Xie, Aofan Liu, Ming Li, Jiannong Cao, Yuan Xie, Ngai Wong, Hongxia Yang.
 
 - `TCAS-I 2025` [EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models](https://doi.org/10.1109/TCSI.2025.3546256), Mingqiang Huang, Ao Shen, Kai Li, Haoxiang Peng, Boyu Li, **Yupeng Su**, Hao Yu.
 
