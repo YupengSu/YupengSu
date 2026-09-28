@@ -38,8 +38,8 @@ def render_pubs(pubs):
     out = []
     for p in pubs:
         star = "★ " if p.get("first_author") else ""
-        title = f"[{p['title']}]({p['links']['paper']})"
-        links = p.get("links", {})
+        links = p.get("links") or {}
+        title = f"[{p['title']}]({links['paper']})" if links.get("paper") else p["title"]
         code = f" [[Code]]({links['code']})" if links.get("code") else ""
         project = f" [[Project]]({links['project']})" if links.get("project") else ""
         out.append(f"- `{p['venue']}` {star}{title}, {bold(p['authors'])}.{code}{project}")

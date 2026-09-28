@@ -16,6 +16,7 @@ If you are interested in my research or have any questions, please feel free to 
 ### 🔥 News
 
 <!-- NEWS:START -->
+- *2026.08* : &nbsp; 🎉 Our paper **Muon²** is accepted by EMNLP 2026 as an **Oral** presentation.
 - *2026.07* : &nbsp; 🎉 Our papers **MuonQ** and **RankGuide** are accepted by CoLM 2026.
 - *2025.07* : &nbsp; 🎉 Our paper **LLM-Barber** is accepted by IEEE/ACM ICCAD 2025.
 - *2025.05* : &nbsp; 🎉 Our paper **EdgeLLM** is accepted by IEEE TCAS-I: Regular Papers.
@@ -27,11 +28,13 @@ If you are interested in my research or have any questions, please feel free to 
 ### 📝 Publications
 
 <!-- PUBS:START -->
+- `Under Review` ★ ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents, **Yupeng Su**, Jiayi Tian, Zheng Zhang, Souvik Kundu.
+
 - `CoLM 2026` ★ [MuonQ: Enhancing Low-Bit Muon Quantization via Directional Fidelity Optimization](https://arxiv.org/abs/2605.11396), **Yupeng Su**, Ruijie Zhang, Ziyue Liu, Yequan Zhao, Zheng Zhang. [[Code]](https://github.com/YupengSu/MuonQ) [[Project]](https://yupengsu.github.io/MuonQ)
 
 - `CoLM 2026` [RankGuide: Tensor-Rank-Guided Routing and Steering for Efficient Reasoning](https://arxiv.org/abs/2604.16694), Jiayi Tian, **Yupeng Su**, Ryan Solgi, Souvik Kundu, Zheng Zhang.
 
-- `arXiv 2026` [Muon²: Boosting Muon via Adaptive Second-Moment Preconditioning](https://arxiv.org/abs/2604.09967), Ziyue Liu, Ruijie Zhang, Zhengyang Wang, Yequan Zhao, **Yupeng Su**, Zi Yang, Zheng Zhang.
+- `EMNLP 2026 (Oral)` [Muon²: Boosting Muon via Adaptive Second-Moment Preconditioning](https://arxiv.org/abs/2604.09967), Ziyue Liu, Ruijie Zhang, Zhengyang Wang, Yequan Zhao, **Yupeng Su**, Zi Yang, Zheng Zhang.
 
 - `arXiv 2026` [MUON+: Towards More Effective Muon via One Additional Normalization Step for LLM Pre-training](https://arxiv.org/abs/2602.21545), Ruijie Zhang, Yequan Zhao, Ziyue Liu, Zhengyang Wang, **Yupeng Su**, Liyan Tan, Zheng Zhang.
 
